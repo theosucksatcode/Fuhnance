@@ -1,8 +1,4 @@
-<img 
-    src="./cash-from-fuhnance.png"
-    alt="Cash from Fuhannce"
-    style="max-width: 100px"
-/>
+![Cash from Fuhnance](./cash-from-fuhnance-100.png)
 
 # Fuhnance
 
